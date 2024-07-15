@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dogs World</string>
+    <string name="register">REGISTER</string>
+    <string name="login_phone_hint">Phone no.</string>
+    <string name="login_password_hint">OTP</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="login">Login</string>
+    <string name="cart">Cart</string>
+    <string name="home">Home</string>
+    <string name="add_to_cart">Add to Cart : </string>
+    <string name="alert">Alert</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
